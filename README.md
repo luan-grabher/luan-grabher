@@ -1,4 +1,4 @@
-### Olá, eu sou Luan Grabher e trabalho com PHP, Java, JavaScript e Python 👋
+### Olá, eu sou Luan Grabher e trabalho atualmente com PHP, Java, JavaScript e Python 👋
 
 <div align="center">
   <a href="https://github.com/luan-grabher">
