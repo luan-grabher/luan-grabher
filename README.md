@@ -11,6 +11,7 @@
   <div style="display: inline-block">      
             <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />    
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
